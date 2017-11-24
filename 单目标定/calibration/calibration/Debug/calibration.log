@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\geanna cao\desktop\单目标定\calibration\calibration\源.cpp(201): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\geanna cao\desktop\单目标定\calibration\calibration\源.cpp(202): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\geanna cao\desktop\单目标定\calibration\calibration\源.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+LINK : fatal error LNK1104: 无法打开文件“opencv_ml249d.lib”
