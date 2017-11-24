@@ -1,0 +1,141 @@
+﻿“calibration.exe”(Win32):  已加载“E:\技术路线编程\张正友标定\calibration\Debug\calibration.exe”。已加载符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ntdll.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\kernel32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\KernelBase.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_calib3d249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_core249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msvcp120d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msvcr120d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_flann249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_imgproc249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_features2d249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\opencv\build\x86\vc12\bin\opencv_highgui249d.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\user32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\gdi32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\lpk.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\usp10.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msvcrt.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ole32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\oleaut32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\advapi32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\sechost.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18837_none_ec86b8d6858ec0bc\comctl32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msvfw32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\winmm.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\shell32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\shlwapi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\avifil32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msacm32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\avicap32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\version.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\imm32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msctf.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\nvinit.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\cryptbase.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\uxtheme.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“D:\Program Files\kingsoft antivirus\kwsui.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\psapi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\wtsapi32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\clbcatq.dll”。无法查找或打开 PDB 文件。
+线程 0x18e0 已退出，返回值为 0 (0x0)。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\devenum.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\setupapi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\devobj.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ntmarta.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\Wldap32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\wintrust.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\crypt32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msasn1.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\msdmo.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\qcap.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\quartz.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Users\Administrator\AppData\Roaming\TaobaoProtect\TaobaoProtectSE.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\sfc.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\sfc_os.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\dwmapi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\HVPerfDX.ax”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\comdlg32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PluginsManager.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\winspool.drv”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\HVDAILT.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\HVAPI.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\dhGigEBase.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\CyUtilsLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ws2_32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\nsi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.vc80.mfc_1fc8b3b9a1e18e3b_8.0.50727.6195_none_cbf5e994470a1a8f\mfc80.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6229_none_d089f796442de10e\msvcr80.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6229_none_d089f796442de10e\msvcp80.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\CyComLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\wsock32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\IPHLPAPI.DLL”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\winnsi.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\PtBaseLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\PtUserLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\EbUserLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\EbBaseLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\CyCamLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\CyImgLib.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Common Files\Pleora\PtImagingLib.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.vc80.mfcloc_1fc8b3b9a1e18e3b_8.0.50727.6195_none_03ce2c72205943d3\mfc80CHS.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\dhcpcsvc.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\mswsock.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\WSHTCPIP.DLL”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\propsys.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll”。无法查找或打开 PDB 文件。
+线程 0x308 已退出，返回值为 0 (0x0)。
+线程 0x1d10 已退出，返回值为 0 (0x0)。
+线程 0x1d48 已退出，返回值为 0 (0x0)。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\_IConvert.plx”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ImageLoad.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\Raw2Rgb.dll”。模块已生成，不包含符号。
+0x75A780D7 处(位于 calibration.exe 中)最可能的异常: Microsoft C++ 异常: CPropertyBagException，位于内存位置 0x0027DAA8 处。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\AFCtrl.plx”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\qedit.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.19061_none_72d6d48d86649709\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ddraw.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\dciman32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\igdumd32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\d3dim700.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\igdumd32.dll”
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\igdumd32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\igdumd32.dll”
+线程 0x1c3c 已退出，返回值为 0 (0x0)。
+0x75A780D7 处(位于 calibration.exe 中)最可能的异常: Microsoft C++ 异常: CyErrorInfo，位于内存位置 0x03BBEADC 处。
+线程 0xddc 已退出，返回值为 0 (0x0)。
+线程 0x16d0 已退出，返回值为 0 (0x0)。
+“calibration.exe”(Win32):  已卸载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\_IConvert.plx”
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\Raw2Rgb.dll”
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\ImageLoad.dll”
+“calibration.exe”(Win32):  已卸载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\AFCtrl.plx”
+线程 0x1998 已退出，返回值为 0 (0x0)。
+线程 0x1538 已退出，返回值为 0 (0x0)。
+线程 0x1c6c 已退出，返回值为 0 (0x0)。
+线程 0x1f24 已退出，返回值为 0 (0x0)。
+线程 0x19b0 已退出，返回值为 0 (0x0)。
+线程 0x15c8 已退出，返回值为 0 (0x0)。
+线程 0x1b10 已退出，返回值为 0 (0x0)。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\_IConvert.plx”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\ImageLoad.dll”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\Raw2Rgb.dll”。模块已生成，不包含符号。
+0x75A780D7 处(位于 calibration.exe 中)最可能的异常: Microsoft C++ 异常: CPropertyBagException，位于内存位置 0x0027E668 处。
+“calibration.exe”(Win32):  已加载“C:\Program Files\Daheng Imavision\DH-HVDevice\DirectX\PlugIns\AFCtrl.plx”。模块已生成，不包含符号。
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\igdumd32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\igdumd32.dll”
+“calibration.exe”(Win32):  已加载“C:\Windows\System32\igdumd32.dll”。无法查找或打开 PDB 文件。
+“calibration.exe”(Win32):  已卸载“C:\Windows\System32\igdumd32.dll”
+线程 0x1bc4 已退出，返回值为 0 (0x0)。
+线程 0x18f0 已退出，返回值为 0 (0x0)。
+线程 0x1a34 已退出，返回值为 0 (0x0)。
+线程 0x1a24 已退出，返回值为 0 (0x0)。
+线程 0x1a00 已退出，返回值为 0 (0x0)。
+线程 0xb70 已退出，返回值为 0 (0x0)。
+线程 0x1844 已退出，返回值为 0 (0x0)。
+线程 0x1dcc 已退出，返回值为 0 (0x0)。
+线程 0x1e9c 已退出，返回值为 0 (0x0)。
+线程 0x1b64 已退出，返回值为 0 (0x0)。
+线程 0x19dc 已退出，返回值为 0 (0x0)。
+线程 0x1b54 已退出，返回值为 0 (0x0)。
+程序“[5232] calibration.exe”已退出，返回值为 0 (0x0)。
